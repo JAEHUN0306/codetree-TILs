@@ -7,6 +7,6 @@ public class Main {
         int c = sc.nextInt();
 
         System.out.println(a+b+c);
-        System.out.println(a+b+c/3);
+        System.out.println((a+b+c)/3);
     }
 }
