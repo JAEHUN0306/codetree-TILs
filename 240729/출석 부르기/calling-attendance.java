@@ -10,7 +10,7 @@ public class Main {
         } else if(num == 2) {
             System.out.println("Tom");
         } else if (num == 3) {
-            System.out.println("paul");
+            System.out.println("Paul");
         } else {
             System.out.println("Vacancy");
         }
