@@ -9,8 +9,7 @@ public class Main {
         a += b;
         b += a;
 
-        System.out.println(a);
-        System.out.println(b);
+        System.out.printf("%d %d", a, b);
         
     }
 }
