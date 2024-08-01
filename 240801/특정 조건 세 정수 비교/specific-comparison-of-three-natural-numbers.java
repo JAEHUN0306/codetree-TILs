@@ -11,8 +11,8 @@ public class Main {
         } else {
             System.out.print(0);
         }
-        
-        System.out.print("  ")
+
+        System.out.print("  ");
 
         if(a == b && b == c && c == a) {
             System.out.print(1);
