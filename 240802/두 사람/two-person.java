@@ -7,7 +7,7 @@ public class Main {
         int B_age = sc.nextInt();
         char B_gen = sc.next().charAt(0);
 
-        if (A_age >= 19 && A_gen == 'M' || B_age >= 19 && B_age == 'M') {
+        if ((A_age >= 19 && A_gen == 'M') || (B_age >= 19 && B_age == 'M')) {
             System.out.println(1);
         } else {
             System.out.println(0);
